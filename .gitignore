@@ -1,0 +1,15 @@
+# Obsidian
+.trash/
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / tooling
+*.swp
+*.swo
+*~
